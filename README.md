@@ -12,3 +12,10 @@ Navigate to the path /DungeonMania/src/main/java/ and open App.java.
 Upon opening App.java, scroll down to the *main* function and run it.
 
 Enjoy playing our game!
+
+## Extra Notes
+If you are interested in some of the assumptions we've made, we have an *assumptions.md* file that states everything.
+
+If you are also interesed in what our timeline was like, the *planning.pdf* file visually represents our planned schedule.
+
+If you are interested in our UML diagram for this project, the *design.pdf* is the file to look at.

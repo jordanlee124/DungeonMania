@@ -1,0 +1,32 @@
+
+{
+"width": 15,
+"height": 15,
+"entities": [
+    {
+      "x": 1,
+      "y": 1,
+      "type": "player"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "type": "treasure"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "type": "sword"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "type": "mercenary"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "type": "zombie_toast_spawner"
+    }
+  ]
+}

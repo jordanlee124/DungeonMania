@@ -1,0 +1,137 @@
+{
+    "width": 15,
+    "height": 15,
+    "entities": [
+      {
+        "x": 0,
+        "y": 0,
+        "type": "arrow"
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "type": "arrow"
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "type": "arrow"
+      },
+      {
+        "x": 3,
+        "y": 3,
+        "type": "wood"
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "type": "player"
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "type": "wood"
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "type": "wood"
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "type": "treasure"
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "type": "key",
+        "key": 1
+      },
+      {
+        "x": 2,
+        "y": 3,
+        "type": "sun_stone"
+      },
+      {
+        "x": 2,
+        "y": 4,
+        "type": "armour"
+      },
+      {
+        "x": 11,
+        "y": 4,
+        "type": "zombie_toast"
+      },
+      {
+        "x": 15,
+        "y": 4,
+        "type": "mercenary"
+      },
+      {
+        "x": 15,
+        "y": 3,
+        "type": "mercenary"
+      },
+      {
+        "x": 15,
+        "y": 2,
+        "type": "mercenary"
+      },
+      {
+        "x": 15,
+        "y": 1,
+        "type": "mercenary"
+      },
+      {
+        "x": 15,
+        "y": 5,
+        "type": "mercenary"
+      },
+      {
+        "x": 15,
+        "y": 6,
+        "type": "mercenary"
+      },
+      {
+        "x": 15,
+        "y": 7,
+        "type": "mercenary"
+      },
+      {
+        "x": 15,
+        "y": 8,
+        "type": "mercenary"
+      },
+      {
+        "x": 15,
+        "y": 9,
+        "type": "mercenary"
+      },
+      {
+        "x": 15,
+        "y": 10,
+        "type": "mercenary"
+      },
+      {
+        "x": 15,
+        "y": 11,
+        "type": "mercenary"
+      },
+      {
+        "x": 15,
+        "y": 12,
+        "type": "mercenary"
+      },
+      {
+        "x": 15,
+        "y": 13,
+        "type": "mercenary"
+      },
+      {
+        "x": 15,
+        "y": 14,
+        "type": "mercenary"
+      }
+    ]
+  }

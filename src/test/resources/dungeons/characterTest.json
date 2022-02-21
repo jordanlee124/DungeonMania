@@ -1,0 +1,31 @@
+{
+    "width": 15,
+    "height": 15,
+    "entities": [
+      {
+        "x": 1,
+        "y": 1,
+        "type": "player"
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "type": "bomb"
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "type": "sword"
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "type": "health_potion"
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "type": "sword"
+      }
+    ]
+}

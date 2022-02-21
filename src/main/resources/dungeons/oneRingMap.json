@@ -1,0 +1,47 @@
+
+{
+    "width": 15,
+    "height": 15,
+    "entities": [
+      {
+        "x": 1,
+        "y": 1,
+        "type": "player"
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "type": "one_ring"
+      },
+      {
+        "x": 1,
+        "y": 3,
+        "type": "assassin"
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "type": "treasure"
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "type": "assassin"
+      },
+      {
+        "x": 4,
+        "y": 1,
+        "type": "zombie_toast_spawner"
+      },
+      {
+        "x": 5,
+        "y": 1,
+        "type": "assassin"
+      },
+      {
+        "x": 1,
+        "y": 5,
+        "type": "zombie_toast_spawner"
+      }
+    ]
+  }

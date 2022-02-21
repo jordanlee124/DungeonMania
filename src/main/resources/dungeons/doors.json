@@ -1,0 +1,77 @@
+{
+  "width": 15,
+  "height": 10,
+  "entities": [
+    {
+      "x": 0,
+      "y": 0,
+      "type": "arrow"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "type": "arrow"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "type": "arrow"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "type": "wood"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "type": "player"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "type": "wood"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "type": "wood"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "type": "treasure"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "type": "key",
+      "key": 1
+    },
+    {
+      "x": 15,
+      "y": 4,
+      "type": "mercenary"
+    },
+    {
+      "x": 15,
+      "y": 3,
+      "type": "mercenary"
+    },
+    {
+      "x": 15,
+      "y": 2,
+      "type": "mercenary"
+    },
+    {
+      "x": 15,
+      "y": 1,
+      "type": "mercenary"
+    },
+    {
+      "x": 15,
+      "y": 0,
+      "type": "mercenary"
+    }
+  ]
+}
